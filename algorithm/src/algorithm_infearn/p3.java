@@ -19,7 +19,10 @@ public class p3 {
 	    } System.out.println(max);
 	}	
 }
-//list length 구해서 max 구하기 
+
+
+
+//list length
 //System.out.println(Arrays.toString(tmp));
 //System.out.println(tmp[i].length());
 //else if(tmp.length == 1) {
