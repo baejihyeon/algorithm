@@ -22,7 +22,7 @@ public class p3 {
 
 
 
-//list length
+//list length 
 //System.out.println(Arrays.toString(tmp));
 //System.out.println(tmp[i].length());
 //else if(tmp.length == 1) {
