@@ -5,12 +5,8 @@ public class p3 {
 	public static void main(String[] args) {
 	    Scanner in=new Scanner(System.in);
 	    String input1 = in.nextLine();
-	    String[] tmp;
-
-		tmp = input1.split(" ");
-		
-		String max = tmp[0];   
-		
+	    String[] tmp = input1.split(" ");		
+		String max = tmp[0];   		
 		for(int i=0; i<tmp.length; i++) {
 
 	    	if(max.length() < tmp[i].length()) {
