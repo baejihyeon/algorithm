@@ -2,7 +2,7 @@ package algorithm_programmers;
 
 import java.util.*;
 import java.util.Map.*;
-/* 완주하지 못한 선수 (해시) */
+/* 완주하지 못한 선수 (해시) */ 
 public class lessons_42576 {
 	public static void main(String[] args) {
 		String[] participant = {"mislav", "stanko", "mislav", "ana"}; 
