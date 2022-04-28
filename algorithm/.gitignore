@@ -94,5 +94,9 @@ local.properties
 hs_err_pid*
 replay_pid*
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java
 /.project
+=======
+# End of https://www.toptal.com/developers/gitignore/api/eclipse,java
+>>>>>>> branch 'main' of https://github.com/baejihyeon/algorithm.git
