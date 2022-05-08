@@ -59,7 +59,6 @@ public class p24 {
 						int ny = now.y + dy[z];
 						if(nx>-1 && nx< N && ny > -1 && ny <M && box[nx][ny] == 0
 								&&box[nx][ny] != -1)  {
-//							System.out.println("x :" + nx+",y:"+ny);
 							box[nx][ny] = 1;
 							Q.add(new Pair(nx,ny));
 						}
