@@ -1,7 +1,6 @@
 package algorithm_infearn;
 import java.util.*;
 public class p28 {
-	
 	static int[][] arr;
 	static int[][] chk;
 	static int N;
