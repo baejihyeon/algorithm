@@ -2,7 +2,7 @@ package algorithm_infearn;
 
 import java.util.*;
 
-/*안전 영역*/
+/*안전 영역*/ 
 public class p30 {
 	static int[] dx = { -1, 0, 1, 0 };
 	static int[] dy = { 0, 1, 0, -1 };
