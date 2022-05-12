@@ -1,4 +1,5 @@
 package algorithm_infearn;
+
 /*나이트의 이동*/
 import java.io.*;
 import java.util.*;
